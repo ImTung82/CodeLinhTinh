@@ -1,0 +1,10 @@
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De4_QuanLyDiemThi\De4_QuanLyDiemThi\bin\Debug\De4_QuanLyDiemThi.exe.config
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De4_QuanLyDiemThi\De4_QuanLyDiemThi\bin\Debug\De4_QuanLyDiemThi.exe
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De4_QuanLyDiemThi\De4_QuanLyDiemThi\bin\Debug\De4_QuanLyDiemThi.pdb
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De4_QuanLyDiemThi\De4_QuanLyDiemThi\obj\Debug\De4_QuanLyDiemThi.csproj.AssemblyReference.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De4_QuanLyDiemThi\De4_QuanLyDiemThi\obj\Debug\De4_QuanLyDiemThi.Form1.resources
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De4_QuanLyDiemThi\De4_QuanLyDiemThi\obj\Debug\De4_QuanLyDiemThi.Properties.Resources.resources
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De4_QuanLyDiemThi\De4_QuanLyDiemThi\obj\Debug\De4_QuanLyDiemThi.csproj.GenerateResource.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De4_QuanLyDiemThi\De4_QuanLyDiemThi\obj\Debug\De4_QuanLyDiemThi.csproj.CoreCompileInputs.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De4_QuanLyDiemThi\De4_QuanLyDiemThi\obj\Debug\De4_QuanLyDiemThi.exe
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De4_QuanLyDiemThi\De4_QuanLyDiemThi\obj\Debug\De4_QuanLyDiemThi.pdb

@@ -1,0 +1,11 @@
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De3_QuanLySinhVien\De3_QuanLySinhVien\bin\Debug\De3_QuanLySinhVien.exe.config
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De3_QuanLySinhVien\De3_QuanLySinhVien\bin\Debug\De3_QuanLySinhVien.exe
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De3_QuanLySinhVien\De3_QuanLySinhVien\bin\Debug\De3_QuanLySinhVien.pdb
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De3_QuanLySinhVien\De3_QuanLySinhVien\obj\Debug\De3_QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De3_QuanLySinhVien\De3_QuanLySinhVien\obj\Debug\De3_QuanLySinhVien.Form1.resources
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De3_QuanLySinhVien\De3_QuanLySinhVien\obj\Debug\De3_QuanLySinhVien.Properties.Resources.resources
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De3_QuanLySinhVien\De3_QuanLySinhVien\obj\Debug\De3_QuanLySinhVien.csproj.GenerateResource.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De3_QuanLySinhVien\De3_QuanLySinhVien\obj\Debug\De3_QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De3_QuanLySinhVien\De3_QuanLySinhVien\obj\Debug\De3_QuanLySinhVien.exe
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De3_QuanLySinhVien\De3_QuanLySinhVien\obj\Debug\De3_QuanLySinhVien.pdb
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\De3_QuanLySinhVien\De3_QuanLySinhVien\obj\Debug\De3_QuanLySinhVien.Form2.resources
