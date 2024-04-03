@@ -1,0 +1,10 @@
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\Program_AX+B=0\Program_AX+B=0\bin\Debug\Program_AX+B=0.exe.config
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\Program_AX+B=0\Program_AX+B=0\bin\Debug\Program_AX+B=0.exe
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\Program_AX+B=0\Program_AX+B=0\bin\Debug\Program_AX+B=0.pdb
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\Program_AX+B=0\Program_AX+B=0\obj\Debug\Program_AX+B=0.csproj.AssemblyReference.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\Program_AX+B=0\Program_AX+B=0\obj\Debug\Program_AX_B_0.Form1.resources
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\Program_AX+B=0\Program_AX+B=0\obj\Debug\Program_AX_B_0.Properties.Resources.resources
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\Program_AX+B=0\Program_AX+B=0\obj\Debug\Program_AX+B=0.csproj.GenerateResource.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\Program_AX+B=0\Program_AX+B=0\obj\Debug\Program_AX+B=0.csproj.CoreCompileInputs.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\Program_AX+B=0\Program_AX+B=0\obj\Debug\Program_AX+B=0.exe
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\Program_AX+B=0\Program_AX+B=0\obj\Debug\Program_AX+B=0.pdb

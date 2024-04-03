@@ -1,0 +1,10 @@
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyQuanInternet\QuanLyQuanInternet\bin\Debug\QuanLyQuanInternet.exe.config
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyQuanInternet\QuanLyQuanInternet\bin\Debug\QuanLyQuanInternet.exe
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyQuanInternet\QuanLyQuanInternet\bin\Debug\QuanLyQuanInternet.pdb
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyQuanInternet\QuanLyQuanInternet\obj\Debug\QuanLyQuanInternet.csproj.AssemblyReference.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyQuanInternet\QuanLyQuanInternet\obj\Debug\QuanLyQuanInternet.Form1.resources
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyQuanInternet\QuanLyQuanInternet\obj\Debug\QuanLyQuanInternet.Properties.Resources.resources
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyQuanInternet\QuanLyQuanInternet\obj\Debug\QuanLyQuanInternet.csproj.GenerateResource.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyQuanInternet\QuanLyQuanInternet\obj\Debug\QuanLyQuanInternet.csproj.CoreCompileInputs.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyQuanInternet\QuanLyQuanInternet\obj\Debug\QuanLyQuanInternet.exe
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyQuanInternet\QuanLyQuanInternet\obj\Debug\QuanLyQuanInternet.pdb

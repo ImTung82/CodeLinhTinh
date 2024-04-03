@@ -1,0 +1,10 @@
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyKhachHang\QuanLyKhachHang\bin\Debug\QuanLyKhachHang.exe.config
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyKhachHang\QuanLyKhachHang\bin\Debug\QuanLyKhachHang.exe
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyKhachHang\QuanLyKhachHang\bin\Debug\QuanLyKhachHang.pdb
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyKhachHang\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.csproj.AssemblyReference.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyKhachHang\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.Form1.resources
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyKhachHang\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.Properties.Resources.resources
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyKhachHang\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.csproj.GenerateResource.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyKhachHang\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.csproj.CoreCompileInputs.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyKhachHang\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.exe
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\QuanLyKhachHang\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.pdb

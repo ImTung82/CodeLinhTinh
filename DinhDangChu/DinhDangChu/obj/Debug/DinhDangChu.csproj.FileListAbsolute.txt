@@ -1,0 +1,10 @@
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\DinhDangChu\DinhDangChu\bin\Debug\DinhDangChu.exe.config
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\DinhDangChu\DinhDangChu\bin\Debug\DinhDangChu.exe
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\DinhDangChu\DinhDangChu\bin\Debug\DinhDangChu.pdb
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\DinhDangChu\DinhDangChu\obj\Debug\DinhDangChu.csproj.AssemblyReference.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\DinhDangChu\DinhDangChu\obj\Debug\DinhDangChu.Form1.resources
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\DinhDangChu\DinhDangChu\obj\Debug\DinhDangChu.Properties.Resources.resources
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\DinhDangChu\DinhDangChu\obj\Debug\DinhDangChu.csproj.GenerateResource.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\DinhDangChu\DinhDangChu\obj\Debug\DinhDangChu.csproj.CoreCompileInputs.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\DinhDangChu\DinhDangChu\obj\Debug\DinhDangChu.exe
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\DinhDangChu\DinhDangChu\obj\Debug\DinhDangChu.pdb
