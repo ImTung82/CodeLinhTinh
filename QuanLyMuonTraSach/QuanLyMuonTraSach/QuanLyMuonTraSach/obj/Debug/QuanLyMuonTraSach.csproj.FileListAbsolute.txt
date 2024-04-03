@@ -1,0 +1,10 @@
+D:\Code_C#\QuanLyMuonTraSach\QuanLyMuonTraSach\bin\Debug\QuanLyMuonTraSach.exe.config
+D:\Code_C#\QuanLyMuonTraSach\QuanLyMuonTraSach\bin\Debug\QuanLyMuonTraSach.exe
+D:\Code_C#\QuanLyMuonTraSach\QuanLyMuonTraSach\bin\Debug\QuanLyMuonTraSach.pdb
+D:\Code_C#\QuanLyMuonTraSach\QuanLyMuonTraSach\obj\Debug\QuanLyMuonTraSach.csproj.AssemblyReference.cache
+D:\Code_C#\QuanLyMuonTraSach\QuanLyMuonTraSach\obj\Debug\QuanLyMuonTraSach.Form1.resources
+D:\Code_C#\QuanLyMuonTraSach\QuanLyMuonTraSach\obj\Debug\QuanLyMuonTraSach.Properties.Resources.resources
+D:\Code_C#\QuanLyMuonTraSach\QuanLyMuonTraSach\obj\Debug\QuanLyMuonTraSach.csproj.GenerateResource.cache
+D:\Code_C#\QuanLyMuonTraSach\QuanLyMuonTraSach\obj\Debug\QuanLyMuonTraSach.csproj.CoreCompileInputs.cache
+D:\Code_C#\QuanLyMuonTraSach\QuanLyMuonTraSach\obj\Debug\QuanLyMuonTraSach.exe
+D:\Code_C#\QuanLyMuonTraSach\QuanLyMuonTraSach\obj\Debug\QuanLyMuonTraSach.pdb
