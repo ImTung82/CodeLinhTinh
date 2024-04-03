@@ -1,0 +1,10 @@
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\ChangeFlag\ChangeFlag\bin\Debug\ChangeFlag.exe.config
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\ChangeFlag\ChangeFlag\bin\Debug\ChangeFlag.exe
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\ChangeFlag\ChangeFlag\bin\Debug\ChangeFlag.pdb
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\ChangeFlag\ChangeFlag\obj\Debug\ChangeFlag.csproj.AssemblyReference.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\ChangeFlag\ChangeFlag\obj\Debug\ChangeFlag.Form1.resources
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\ChangeFlag\ChangeFlag\obj\Debug\ChangeFlag.Properties.Resources.resources
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\ChangeFlag\ChangeFlag\obj\Debug\ChangeFlag.csproj.GenerateResource.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\ChangeFlag\ChangeFlag\obj\Debug\ChangeFlag.csproj.CoreCompileInputs.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\ChangeFlag\ChangeFlag\obj\Debug\ChangeFlag.exe
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\ChangeFlag\ChangeFlag\obj\Debug\ChangeFlag.pdb

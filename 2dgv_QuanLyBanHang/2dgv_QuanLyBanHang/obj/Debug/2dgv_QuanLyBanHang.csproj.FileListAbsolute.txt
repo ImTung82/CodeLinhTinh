@@ -1,0 +1,10 @@
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\2dgv_QuanLyBanHang\2dgv_QuanLyBanHang\bin\Debug\2dgv_QuanLyBanHang.exe.config
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\2dgv_QuanLyBanHang\2dgv_QuanLyBanHang\bin\Debug\2dgv_QuanLyBanHang.exe
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\2dgv_QuanLyBanHang\2dgv_QuanLyBanHang\bin\Debug\2dgv_QuanLyBanHang.pdb
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\2dgv_QuanLyBanHang\2dgv_QuanLyBanHang\obj\Debug\2dgv_QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\2dgv_QuanLyBanHang\2dgv_QuanLyBanHang\obj\Debug\_2dgv_QuanLyBanHang.Form1.resources
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\2dgv_QuanLyBanHang\2dgv_QuanLyBanHang\obj\Debug\_2dgv_QuanLyBanHang.Properties.Resources.resources
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\2dgv_QuanLyBanHang\2dgv_QuanLyBanHang\obj\Debug\2dgv_QuanLyBanHang.csproj.GenerateResource.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\2dgv_QuanLyBanHang\2dgv_QuanLyBanHang\obj\Debug\2dgv_QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\2dgv_QuanLyBanHang\2dgv_QuanLyBanHang\obj\Debug\2dgv_QuanLyBanHang.exe
+C:\Tung_TLU\TLU_Hoc\2023_2024(Nam 2)\Ki_2\Lap Trinh Windows (C#)\Tự học\2dgv_QuanLyBanHang\2dgv_QuanLyBanHang\obj\Debug\2dgv_QuanLyBanHang.pdb
